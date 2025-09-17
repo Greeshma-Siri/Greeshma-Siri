@@ -29,7 +29,7 @@ This profile is where I share my learning journey and projects.
 ## 📂 Featured Repositories (Coming Soon)
 
 - **TCL-Scripts** → Useful TCL scripts for simulation & automation
-- **verilog-codes** → Digital design using veilog 
+- **Digital-Design-Using-Verilog** → Collection of Verilog codes for logic gates, combinational and sequential circuits (Adder, Mux, Flip-Flops, Counters, FSMs) 
 - **SV-Examples** → SystemVerilog randomization, coverage, and assertion examples  
 - **UVM-Env** → My first UVM testbench environment  
 
